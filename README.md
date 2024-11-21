@@ -70,6 +70,7 @@ Define la navegación entre los fragmentos de la aplicación.
 
 ### `AndroidManifest.xml`
 Incluye el permiso `android.permission.BODY_SENSORS` para acceder a los sensores del dispositivo.
+link al repo ->https://github.com/cosmxr/Taller4.git
 
 ## Conclusión
 
